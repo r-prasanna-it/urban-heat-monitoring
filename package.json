@@ -1,0 +1,19 @@
+{
+  "name": "urban-heat-monitoring-platform",
+  "version": "1.0.0",
+  "description": "Urban Heat Monitoring & Cooling Platform - Full Stack MERN Application",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "mern",
+    "urban-heat-monitoring",
+    "leaflet",
+    "chartjs"
+  ],
+  "author": "Urban Climate Team",
+  "license": "ISC"
+}
